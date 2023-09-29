@@ -26,8 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Adesodun Titilope",
   title: "Budding Web Developer",
-  email: "adesoduntitilope05@gmail.com"
-  MLSA-email: "Titilope.Adesodun@studentambassadors.com",
+  email: "Titilope.Adesodun@studentambassadors.com",
   gitHub: "https://github.com/adesodun27",
   instagram: "https://www.instagram.com/titilope.adesodun/",
   linkedIn: "https://www.linkedin.com/in/titilope-adesodun/",
